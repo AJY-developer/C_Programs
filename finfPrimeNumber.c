@@ -4,7 +4,7 @@ int main(){
   int flag = 1,j=0,lL,uL;
   printf("Enter the starting point for finding prime numbers: ");
   scanf("%d", &lL);
-
+  // for scanning functions 
   printf("Enter the ending point for finding prime numbers: ");
   scanf("%d", &uL);
   // clrscr(); // in case of old editor
